@@ -1,3 +1,5 @@
+<img src="assets/neatly-logo.png" alt="Neatly logo and app icons" width="768">
+
 # Neatly
 
 Everything in its place.
