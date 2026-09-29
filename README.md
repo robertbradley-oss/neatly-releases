@@ -8,21 +8,21 @@ Neatly is a local Windows folder organizer. Preview individual moves, choose wha
 
 ## Download
 
-**[Download Neatly 0.1.2 for Windows x64](https://github.com/robertbradley-oss/neatly-releases/releases/download/v0.1.2/Neatly-Setup-0.1.2-x64.exe)**
+**[Download Neatly 0.1.4 for Windows x64](https://github.com/robertbradley-oss/neatly-releases/releases/download/v0.1.4/Neatly-Setup-0.1.4-x64.exe)**
 
 [Release notes and checksum](https://github.com/robertbradley-oss/neatly-releases/releases/latest)
 
 ## Install
 
 1. Download the installer and close Neatly if it is running.
-2. Run setup, then open **Neatly** from the Start menu.
+2. Run setup, then open **Neatly** from Start or the desktop shortcut.
 3. Choose **Try a sample folder** to explore preview, move, and undo with fictional files.
 
 Requires Windows 10 version 1809 or later, or Windows 11, on x64. Python is included. Setup installs Microsoft Edge WebView2 if missing; that step requires internet access. Folder organization runs locally.
 
 The installer is unsigned. Windows may show an unknown-publisher or SmartScreen warning.
 
-Run a newer installer to upgrade. Uninstall through Windows Installed apps. History, saved rules, and personal files are preserved. Automatic updates are not included.
+Installed 0.1.3 or newer versions can use **Check for updates → Update and restart**. Version 0.1.2 needs one manual upgrade with the installer. Neatly checks for new releases while open and installs only when you choose to update. Uninstall through Windows Installed apps. History, saved rules, and personal files are preserved.
 
 ## Before organizing
 
