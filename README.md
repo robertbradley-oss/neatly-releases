@@ -8,7 +8,7 @@ Neatly is a local Windows folder organizer. Preview individual moves, choose wha
 
 ## Download
 
-**[Download Neatly 0.1.4 for Windows x64](https://github.com/robertbradley-oss/neatly-releases/releases/download/v0.1.4/Neatly-Setup-0.1.4-x64.exe)**
+**[Download Neatly 0.1.5 for Windows x64](https://github.com/robertbradley-oss/neatly-releases/releases/download/v0.1.5/Neatly-Setup-0.1.5-x64.exe)**
 
 [Release notes and checksum](https://github.com/robertbradley-oss/neatly-releases/releases/latest)
 
